@@ -2,6 +2,9 @@
 
 A new flutter app for demonstrating Pdf Preview
 
+# Demo
+<img src="https://github.com/MarvelApps-Flutter/pdf_viewer_demo/blob/dev/screenshots/gif/demo.gif" height="480px"></td>
+
 # Android Screenshots
 
 <table>
